@@ -6,8 +6,8 @@ The repository is organized into the following main directories:
 1. `preprocessing/`
 This folder contains the code for preprocessing and initial analysis of the raw sequencing data. The preprocessing is divided into the following subdirectories:
 
-- `scRNA-seq/`: Scripts and workflows for processing single-cell RNA sequencing data.
-- `scATAC-seq/`: Scripts and workflows for processing single-cell ATAC sequencing data.
+- `scrnaseq/`: Scripts and workflows for processing single-cell RNA sequencing data.
+- `scatacseq/`: Scripts and workflows for processing single-cell ATAC sequencing data.
 - `10xVisium/`: Code for processing spatial transcriptomics data obtained using the 10x Visium platform. This includes the annotation of anatomical and histological structures in the H&E images.
 - `ISS/`: Workflows and scripts for processing In Situ Sequencing data. This includes the annotation of anatomical structures in the virtual H&E images.
 
