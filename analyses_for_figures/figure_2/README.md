@@ -4,7 +4,7 @@ This directory contains the following scripts
 
 - `Genital_Tubercle_Human_Sexual_Dimorphism.ipynb`: python notebook that performs the sub-analysis for the human genital tubercle scRNA-seq cells during the "masculinisation programming window", spanning from 8 to 14 PCW.
 
-- `Genital_Tubercle_Human_CellPhoneDB.ipynb`: python notebook that identifies sexually dimorphic cell-cell communication events between the corpus spongiosum and urethral epithelium of the human genital tubercle during the "masculinisation programming window". 
+- `Genital_Tubercle_Human_CellPhoneDB.ipynb`: python notebook that identifies sexually dimorphic cell-cell communication events between the corpus spongiosum and urethral epithelium of the human genital tubercle during the "masculinisation programming window" using [CellPhoneDB v5](https://doi.org/10.48550/arXiv.2311.04567)
   
 - `Genital_Tubercle_Mouse_Amato2021_Reanalysis.ipynb`: python notebook that re-analyses the published mouse dataset [Amato et al., 2021](https://doi.org/10.1073/pnas.2103856118) of the differentiating genital tubercle from E14.5, E16.5 and E18.5 male and female samples. 
   
