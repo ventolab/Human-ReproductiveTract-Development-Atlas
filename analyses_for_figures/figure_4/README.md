@@ -1,4 +1,4 @@
-## Figure 4: Regulators of Müllerian and Wolffian duct mesenchymal patterning
+## Figure 4: Regulators of Müllerian and Wolffian duct mesenchymal patterning & Figure 5: Cell-cell communication along the Müllerian and Wolffian duct niches
 
 This directory contains the following scripts 
 
