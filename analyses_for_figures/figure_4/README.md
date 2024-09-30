@@ -30,10 +30,10 @@ This directory contains the following scripts
 - `6b_WolffianAxis_Mesenchymal_Spots_TradeSeq.ipynb`: R notebook that models spatially-variable genes in mesenchymal spots (from 10x Visium) along the measured Wolffian rostro-caudal axis using [TradeSeq](https://www.nature.com/articles/s41467-020-14766-3)
 
 - `7a_MüllerianAxis_Mesenchymal_Cells_TradeSeq.ipynb`: R notebook that models spatially-variable genes in mesenchymal cells (from scRNA-seq) along the imputed Müllerian rostro-caudal axis using [TradeSeq](https://www.nature.com/articles/s41467-020-14766-3)
-
-- `7b_WolffianAxis_Epithelial_Spots_TradeSeq.ipynb`: R notebook that models spatially-variable genes in epithelial spots (from 10x Visium) along the measured Wolffian rostro-caudal axis using [TradeSeq](https://www.nature.com/articles/s41467-020-14766-3)
   
 - `8a_MüllerianAxis_Epithelial_Spots_TradeSeq.ipynb`: R notebook that models spatially-variable genes in epithelial spots (from 10x Visium) along the measured Müllerian rostro-caudal axis using [TradeSeq](https://www.nature.com/articles/s41467-020-14766-3)
+
+- `8b_WolffianAxis_Epithelial_Spots_TradeSeq.ipynb`: R notebook that models spatially-variable genes in epithelial spots (from 10x Visium) along the measured Wolffian rostro-caudal axis using [TradeSeq](https://www.nature.com/articles/s41467-020-14766-3)
 
 - `9a_MüllerianAxis_Epithelial_Cells_TradeSeq.ipynb`: R notebook that models spatially-variable genes in epithelial cells (from scRNA-seq) along the imputed Müllerian rostro-caudal axis using [TradeSeq](https://www.nature.com/articles/s41467-020-14766-3)
 
