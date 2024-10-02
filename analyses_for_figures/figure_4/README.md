@@ -11,17 +11,17 @@ This directory contains the following scripts
 - `2a_MüllerianAxis_ISS.ipynb`: python notebook that derives the computational representation of the differentiating human Müllerian duct based on landmarks annotated in the virtual RGB images of In Situ Sequencing slides. It also performes the imputation of the position along the differentiating Müllerian duct in dissociated scRNA-seq data based on In Situ Sequencing data.
 
 **Sub-analyses of Müllerian and Wolffian-derived mesenchymal and epithelial cells (scRNA-seq data)**
-- `3a_Müllerian_Duct_Differentiation_Mesenchyme.ipynb`:
+- `3a_Müllerian_Duct_Differentiation_Mesenchyme.ipynb`: python notebook that performs the sub-analysis of Müllerian-derived mesenchymal cells in female samples > 10 PCW. Batch correction is performed with [Harmony](https://doi.org/10.1038/s41592-019-0619-0)
+
+- `3b_Wolffian_Duct_Differentiation_Mesenchyme.ipynb`: python notebook that performs the sub-analysis of Wolffian-derived mesenchymal cells in female samples > 10 PCW. Batch correction is performed with [Harmony](https://doi.org/10.1038/s41592-019-0619-0)
   
-- `3b_Wolffian_Duct_Differentiation_Mesenchyme.ipynb`:
+- `4a_Müllerian_Duct_Differentiation_Epithelium.ipynb`: python notebook that performs the sub-analysis of Müllerian-derived epithelial cells in female samples > 10 PCW. Batch correction is performed with [Harmony](https://doi.org/10.1038/s41592-019-0619-0)
   
-- `4a_Müllerian_Duct_Differentiation_Epithelium.ipynb`:
+- `4b_Wolffian_Duct_Differentiation_Epithelium.ipynb`: python notebook that performs the sub-analysis of Wolffian-derived epithelial cells in female samples > 10 PCW. Batch correction is performed with [Harmony](https://doi.org/10.1038/s41592-019-0619-0)
   
-- `4b_Wolffian_Duct_Differentiation_Epithelium.ipynb`:
+- `5a_Müllerian_Duct_Differentiation_Mesenchyme+Epithelium.ipynb`: python notebook that performs the sub-analysis of Müllerian-derived mesenchymal and epithelial cells in female samples > 10 PCW. Batch correction is performed with [Harmony](https://doi.org/10.1038/s41592-019-0619-0)
   
-- `5a_Müllerian_Duct_Differentiation_Mesenchyme+Epithelium.ipynb`:
-  
-- `5b_Wolffian_Duct_Differentiation_Mesenchyme+Epithelium.ipynb`: 
+- `5b_Wolffian_Duct_Differentiation_Mesenchyme+Epithelium.ipynb`: python notebook that performs the sub-analysis of Wolffian-derived mesenchymal and epithelial cells in female samples > 10 PCW. Batch correction is performed with [Harmony](https://doi.org/10.1038/s41592-019-0619-0)
 
 **Continuous modelling of gene expression along the Müllerian and Wolffian rostro-caudal axes**
   
