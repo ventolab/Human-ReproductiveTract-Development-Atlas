@@ -2,9 +2,9 @@ This directory contains the following scripts
 
 ## Per-library analyses 
 
-- `SingleSample_ATAC_Preprocessing_Nextflow.nf`: Nextflow script that creates [ArchR](https://doi.org/10.1038/s41588-021-00790-6) Arrow files per sample
+- `SingleSample_Preprocessing_ATAC_Nextflow.nf`: Nextflow script that creates [ArchR](https://doi.org/10.1038/s41588-021-00790-6) Arrow files per sample
 - `CreateArrowFile.R`: helper R script called from the Nextflow script
-- `SingleSample_ATAC_ArchR.ipnyb`: R notebook to annotate cell types in each individual scATAC-seq library based on the matched view of the scRNA-seq dataset (e.g. if the scATAC-seq library is from an 8 PCW sample, we use the "early" <=10 PCW integrated scRNA-seq manifold to transfer cell type annotations) using [ArchR](https://doi.org/10.1038/s41588-021-00790-6)
+- `SingleSample_Analysis_ATAC_ArchR.ipnyb`: R notebook to annotate cell types in each individual scATAC-seq library based on the matched view of the scRNA-seq dataset (e.g. if the scATAC-seq library is from an 8 PCW sample, we use the "early" <=10 PCW integrated scRNA-seq manifold to transfer cell type annotations) using [ArchR](https://doi.org/10.1038/s41588-021-00790-6)
 
 ## Integrations 
 
