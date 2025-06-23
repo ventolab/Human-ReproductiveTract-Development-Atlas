@@ -14,19 +14,17 @@ This folder contains the code for preprocessing and initial analysis of the raw 
 2. `analyses_for_figures/` (`figure_1/` to `figure_7/`)
 These folders contain the analysis code required to reproduce each figure and the associated results presented in the manuscript. Below is a brief description of each figure directory, where you can add more detailed information about the specific analyses:
 
-- `figure_1/`: Spatiotemporal atlas of human reproductive tract development 
+- `figure_1_atlas/`: Spatiotemporal atlas of human reproductive tract development 
 
-- `figure_2/`: Sexual dimorphism in the genital tubercle
+- `figure_2_Müllerian_emergence/`: Ontology, migration and regression of the Müllerian ducts
 
-- `figure_3/`: Ontology, migration and regression of the Müllerian ducts
+- `figures_3_4_Müllerian_Wolffian_regionalisation/`: Regulators of Müllerian and Wolffian duct mesenchymal patterning & cell-cell communication along the Müllerian and Wolffian duct niches
 
-- `figure_4/`: Regulators of Müllerian and Wolffian duct mesenchymal patterning
+- `figure_5_intra_organ_regionalisation/`: Regionalisation of the fallopian tube and epididymis occurs during fetal development
 
-- `figure_5/`: Cell-cell communication along the Müllerian and Wolffian duct niches
+- `figure_6_external_genitalia/`: Sexual dimorphism in the genital tubercle
 
-- `figure_6/`: Regionalisation of the fallopian tube and epididymis occurs during fetal development
-
-- `figure_7/`: Mapping potential disruptions to reproductive tract development
+- `figure_7_organoids_disruption/`: Mapping potential disruptions to reproductive tract development & in vitro validation of estrogen-mimicking endocrine disrupting chemicals 
   
 Each figure directory is self-contained and includes:
 
