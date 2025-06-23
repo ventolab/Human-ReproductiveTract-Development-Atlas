@@ -14,6 +14,10 @@ This directory contains the following scripts
 
 - `Organoids_BPA.ipynb`: analysis of BPA-treated uterine epithelial organoids from a 12 and a 17 PCW sample.
 
+- `Organoids_BPA_Milo_DA`: differential abundance analysis between BPA-exposed and DMSO uterine epithelial organoids using [Milo](https://www.nature.com/articles/s41587-021-01033-z).
+
 - `Organoids_BBP.ipynb`: analysis of BBP-treated uterine epithelial organoids from a 12 and a 17 PCW sample.
+
+- `Organoids_BBP_Milo_DA`: differential abundance analysis between BBA-exposed and DMSO uterine epithelial organoids using [Milo](https://www.nature.com/articles/s41587-021-01033-z)
 
 
