@@ -1,4 +1,4 @@
-## Figure 7: Mapping potential disruptions to reproductive tract development
+## Figure 7: Mapping potential disruptions to reproductive tract development & fetal uterine organoid exposure to BPA and BBP
 
 This directory contains the following scripts 
 
