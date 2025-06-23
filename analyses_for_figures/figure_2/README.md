@@ -1,19 +1,16 @@
-## Figure 2: Sexual dimorphism in the genital tubercle
+## Figure 2: Regionalisation of the fallopian tube and epididymis occurs during fetal development
 
 This directory contains the following scripts 
 
-- `Genital_Tubercle_Human_Sexual_Dimorphism.ipynb`: python notebook that performs the sub-analysis for the human genital tubercle scRNA-seq cells during the "masculinisation programming window", spanning from 8 to 14 PCW.
+- `FallopianTube_Axis_Epithelium_Visium_TradeSeq.ipynb`: notebook that computes spatially variable genes along the fallopian tube axis in 10x Visium female samples > 10 PCW using [TradeSeq](https://github.com/statOmics/tradeSeq)
+  
+- `Epididymis_Axis_Epithelium_Visium_TradeSeq.ipynb`: notebook that computes spatially variable genes along the epididymal axis in 10x Visium male samples > 10 PCW using [TradeSeq](https://github.com/statOmics/tradeSeq)
+  
+- `FallopianAxis_Epithelium_Filtering_Spatially_Variable_Genes.ipynb`: notebook that filters the spatially variable genes identified with TradeSeq by comparing their expression in fallopian tube epithelial cells vs every other cell type in the female > 10 PCW dataset.
+  
+- `EpididymisAxis_Epithelium_Filtering_Spatially_Variable_Genes.ipynb`: notebook that filters the spatially variable genes identified with TradeSeq by comparing their expression in epididymis epithelial cells vs every other cell type in the male > 10 PCW dataset.
+  
+- `FallopianTube_Fetal_Adult_Comparison.ipynb`: notebook that compares the expression of the spatially variable genes identified in the fetal fallopian tube with a 37 years old fallopian tube sample. 
 
-- `Genital_Tubercle_Human_CellPhoneDB.ipynb`: python notebook that identifies sexually dimorphic cell-cell communication events between the corpus spongiosum and urethral epithelium of the human genital tubercle during the "masculinisation programming window" using [CellPhoneDB v5](https://doi.org/10.48550/arXiv.2311.04567)
-  
-- `Genital_Tubercle_Mouse_Amato2021_Reanalysis.ipynb`: python notebook that re-analyses the published mouse dataset [Amato et al., 2021](https://doi.org/10.1073/pnas.2103856118) of the differentiating genital tubercle from E14.5, E16.5 and E18.5 male and female samples. 
-  
-- `Genital_Tubercle_Cross_Species_Prepare_for_Milo.ipynb`: python notebook that prepares the anndata objects of the human and mouse genital tubercles for [Milo](https://www.nature.com/articles/s41587-021-01033-z) graph construction. 
-  
-- `Genital_Tubercle_Human_Milo.ipynb`: R notebook that computes the neighbourhood graph for the human genital tubercle with [Milo](https://www.nature.com/articles/s41587-021-01033-z).
-  
-- `Genital_Tubercle_Mouse_Milo.ipynb`: R notebook that computes the neighbourhood graph for the mouse genital tubercle with [Milo](https://www.nature.com/articles/s41587-021-01033-z).
-
-- `Genital_Tubercle_Cross_Species_Nhood_to_Cell_Type_Matching.ipynb`: python notebook that compares the cell type labels associated to the matching neighbourhoods. 
 
 
