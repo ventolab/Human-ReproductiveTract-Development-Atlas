@@ -1,1 +1,1 @@
-
+The csv file containing the spot-level metadata + cell2location deconvolution results for 10x Visium data from late female samples is available here: https://drive.google.com/file/d/1G_OHdp1JmLR2Yf1GI_UjAUFifAKAZfpc/view?usp=sharing (the file is larger than 25MB and can't be uploaded to Github)
